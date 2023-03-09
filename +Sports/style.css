@@ -1,0 +1,54 @@
+*{
+  margin: 0;
+  overflow: hidden;
+
+}
+body{
+  background-color: gray;
+}
+    /* Primeira Header */
+.header-prin{
+  display: inline-block;
+  width: 100%;
+  height: 5rem;
+  background-color: lightgrey;
+}
+
+.logo{
+  margin: 8px;
+  width: 10rem;
+
+}
+
+.cadastro{
+  display: inline-block;
+  margin: 5px -75rem 0.5rem 80rem;
+}
+
+.h2-cadastro{
+  display: inline-block;
+  margin-left: 8px;
+  font-size: 15px;
+}
+
+.a-cadastro{
+  text-decoration: none;
+  color: black;
+}
+    /* Segunda Header */
+.header-secun{
+  display: inline-block;
+  width: 100%;
+  height: 3rem;
+  margin-top: -4px;
+  background-color: rgba(54, 54, 54, 0.701);
+}
+.li-categ{
+  color: whitesmoke;
+  display: inline-block;
+  margin: 1rem;
+}
+.a-categ{
+  text-decoration: none;
+  color: whitesmoke;
+}
